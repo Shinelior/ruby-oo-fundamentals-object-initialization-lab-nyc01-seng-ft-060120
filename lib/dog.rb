@@ -1,2 +1,3 @@
 class Dog  
-  def 
+  def initialize(dog_name)
+  @name = person_name
