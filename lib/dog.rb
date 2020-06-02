@@ -1,2 +1,2 @@
 clas Person  
-def 
+def initialize()
